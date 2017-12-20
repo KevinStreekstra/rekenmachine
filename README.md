@@ -10,4 +10,4 @@ Link naar css:
 https://github.com/KevinStreekstra/rekenmachine/blob/master/style.css
 
 Link naar Javascript:
-https://github.com/KevinStreekstra/rekenmachine/blob/master/index.js
+https://github.com/KevinStreekstra/rekenmachine/blob/master/script.js
